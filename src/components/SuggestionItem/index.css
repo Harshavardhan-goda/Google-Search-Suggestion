@@ -1,0 +1,16 @@
+.items {
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+.item-card1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.arrow-icon {
+  height: 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
